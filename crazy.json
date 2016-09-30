@@ -31,13 +31,17 @@
     "summary": "I can't even crazy.",
     "description": "For when words just can't do it justice."
   },
+  "C-BR": {
+    "summary": "Because; reasons crazy.",
+    "description": "This is for when the only explanation given for doing something is \"Because. Reasons\"; under pressure this frequently decays into C-ICE, with some accompanying C-417. Note that in the presence of C-417, C-BR can often fuse into C-Norris."
+  },
   "C-VanDamme": {
     "summary": "The crazy from Brussels.",
     "description": "Everyone is broody, silent and potentially explosive. Waffles with mayo and fries with chocolate may prove helpful, or they may fuel the explosive tendencies."
   },
   "C-Norris": {
     "summary": "Chuck Norris crazy.",
-    "description": "The crazy hasn’t happened yet, but it will. And someone will get their ass handed to them on a plate."
+    "description": "The crazy may not have happened yet, but it will. And someone will get their ass handed to them on a plate."
   },
   "C-e": {
     "summary": "Extreme crazy.",
