@@ -1,0 +1,66 @@
+{
+  "C-i": {
+    "summary": "No crazy.",
+    "description": "An imaginary state, hence the 'i' designator for the imaginary number sqrt(-1)"
+  },
+  "C-asshat": {
+    "summary": "Asshat crazy.",
+    "description": "The author's constant state of sarcastic purveyor of all forms of crazy."
+  },
+  "C-BS": {
+    "summary": "Bat-shit crazy.",
+    "description": " Mild craziness. A good bowel movement usually resolves this."
+  },
+  "C-pi": {
+    "summary": "Regular crazy.",
+    "description": "One or more people are having a perfect circle jerk. Nothing that a nice slice of pie won't help calm down."
+  },
+  "C-007": {
+    "summary": "Under cover crazy.",
+    "description": " The crazy is strong and lethal, but not immediately obvious. Several large extra dry vodka martinis needed."
+  },
+  "C-417": {
+    "summary": "Expectations not met crazy.",
+    "description": "They were simple expectations, that only moderate incompetence could have met. Heavy, repeated sighing can help."
+  },
+  "C-418": {
+    "summary": "I'm a teapot crazy.",
+    "description": "One level up from C-417 crazy, one level down from C-ICE."
+  },
+  "C-ICE": {
+    "summary": "I can't even crazy.",
+    "description": "For when words just can't do it justice."
+  },
+  "C-VanDamme": {
+    "summary": "The crazy from Brussels.",
+    "description": "Everyone is broody, silent and potentially explosive. Waffles with mayo and fries with chocolate may prove helpful, or they may fuel the explosive tendencies."
+  },
+  "C-Norris": {
+    "summary": "Chuck Norris crazy.",
+    "description": "The crazy hasn’t happened yet, but it will. And someone will get their ass handed to them on a plate."
+  },
+  "C-e": {
+    "summary": "Extreme crazy.",
+    "description": "Aka 'The crazy is strong'. The crazy just keeps exponentially growing throughout the day. Dropping an E, or some other recreational drug is highly recommended."
+  },
+  "C-1149": {
+    "summary": "Talking with a pigeon crazy.",
+    "description": "Use of RFC-1149 (IP over Avian Carriers) is a way to reduce this down to C-e crazy."
+  },
+  "C-infinity": {
+    "summary": "Second highest level of crazy.",
+    "description": "Consider leaving this realm of reality. Cos most other people clearly have, and they are much happier there."
+  },
+  "C-0": {
+    "summary": "Highest level of crazy.",
+    "description": "The crazy went \"one more\"than C-infinity, and due to an arithmetic overflow error in The Matrix, infinity+1 = 0."
+  },
+  "C-11": {
+    "summary": "Highest level of crazy.",
+    "description": "This is a quantum super-position with C-0. Because since we are talking crazy, we can't possibly ignore Spinal Tap's David St. Hubbins' \"one more\"contribution to the world of crazy."
+  },
+  "C-Schrodinger": {
+    "summary": "All possible levels of crazy, all at once.",
+    "description": "Opening your eyes and observing which one becomes real is highly discouraged. Will eventually spontaneously decay into C-Norris crazy, frequently with some exotic Crazy fissile by-products."
+  }
+}
